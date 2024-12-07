@@ -21,3 +21,21 @@ Decoupled Innovation
 - layer 3 - Network layer : IP (전송개념 X)
 - Layyer 2 - Data Link layer : Frames, Mac address Ethernet
 - Layer 1 - Physical layer : Electric signals, fiber or radio waves
+
+
+### The shortcomings of the OSI Model
+- OSI Model has too many layers which can be hard to comprehend
+- Hard to argue about which layer does what
+- Simpler to deal with Layers 5-6-7 as just one layer, application
+- TCP/IP Model does just that
+
+
+### TCP/IP Model
+- Much simpler than OSI jsut 4 layers
+- Application (Layer 5,6,7)
+- Transport (Layer 4)
+- Internet (Layer 3)
+- Data Link (Layer 2)
+- Physical layer is not officially covered in the model
+
+
